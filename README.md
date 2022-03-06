@@ -1,7 +1,7 @@
 # employee_directory_app
 
 A new Flutter project.
-
+flutter version 2.10.0
 ## Getting Started
 
 This project is a starting point for a Flutter application.
